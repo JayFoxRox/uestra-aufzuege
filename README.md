@@ -1,0 +1,1 @@
+Parses the escalators / elevators status for the public transport in Hanover, Germany from https://aufzuege.uestra.de/ and returns it in a more structured fashion.
